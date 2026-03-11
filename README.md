@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Alberto Sanz.
+
+Trabajo con tecnología.
+
+## Proyectos
+
+- Whats App Business connector for Dify
+- Sistema de Knowledge Management compartido para IA
+- Sh3rl0ck.es RPG con IA basado en el universo de Sherlock Holmes
+- Workforce Intelligence Platform (post-IA)
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/sanzalberto/
