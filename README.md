@@ -25,6 +25,7 @@ Trabajo con tecnología.
 - Sh3rl0ck.es RPG con IA basado en el universo de Sherlock Holmes --> https://www.sh3rl0ck.es
 - Workforce Intelligence Platform (post-IA) --> Risk Assessment Platform + reskilling assistance con IA
 - WhatsApp Business connector for Dify --> Custom tool for WAB integration with Dify Apps / Agents
+- geiss4pi - Raspberry Pi 3B music waves visualization engine based on popular and old Geiss for Winamp (public repo of my user)
 
 ## 📫 Contacto
 
